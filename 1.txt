@@ -1,4 +1,6 @@
 avinash
 gaurav
 abhilash ajsashkjash
-we are adding this to test clone vs pull
+we are adding this to test clone vs pulli 
+
+i updated it here 
